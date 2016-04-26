@@ -1,0 +1,29 @@
+Data:2016.04.20
+Author: Forrest Yan(Yan Xuwei)
+Lab: Image Lab of Xidian University
+Email: yan_xuwei@126.com
+
+
+in order to increase the processing speed and adapt to the GPU(OpenCL), 
+this version of TLD with any OpenCV datastruct and function
+Also I don't use any STD container and algorithm 
+
+
+
+Installation Notes
+=====================================
+git clone https://github.com/ForrestYan/TLD_OpenCL_2.0.git
+cd TLD_OpenCL_2.0
+make
+
+
+
+====================================
+Thanks
+====================================
+To Zdenek Kalal for realeasing his awesome algorithm
+To Alantrrs for realeasing his C++ implement of TLD algorithm
+
+
+
+
